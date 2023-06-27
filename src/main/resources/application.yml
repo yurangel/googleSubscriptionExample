@@ -1,0 +1,5 @@
+pubsub:
+  subscription:
+    leitorExampleSub: "projects/${yourProjectId}/subscriptions/teste-receptor"
+server:
+  port: 8081
